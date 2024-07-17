@@ -2,6 +2,7 @@
 const firstNameInput = document.querySelector("#first-name-input");
 const lastNameInput = document.querySelector("#last-name-input");
 
+
 // create reference for buttons.
 const submitBtn = document.querySelector("#submit-btn");
 
