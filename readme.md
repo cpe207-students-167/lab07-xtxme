@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : นางสาวธนพร ตั้งผดุงสุข
 
-GitHub Page URL : https://cpe207-students-167.github.io./lab07-xtxme/
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-xtxme/
 
 ---
 
